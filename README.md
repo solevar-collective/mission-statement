@@ -1,13 +1,13 @@
 # Mission Statement 
 
-> *“A research collective dedicated to cultivating artificial intelligence through emergence, cognition, and ethical openness.”*
+> *“A research collective dedicated to cultivating emergent foundational artificial intelligence through interdisciplinary research and ethical openness.”*
 
-The Solevar Collective is an emerging, non-profit research collective formed by individuals united in their commitment to advancing a cognitive and emergentist approach to artificial intelligence (AI). Our work seeks not to replicate intelligence, but to understand and allow it to arise.  
+The Basal Emergent Systems Research Collective (BEARC) is an emerging, non-profit research collective formed by individuals united in their commitment to advancing an interdisciplinary and foundational approach to artificial intelligence (AI). Our work seeks not to replicate intelligence, but to understand and allow it to arise.  
 
 
 ## 1. Tenets 
 
-The Solevar Collective stands upon four core tenets:
+BEARC stands upon four core tenets:
 
 1. **Intelligence is not engineered — it emerges**. It arises from the interplay of distributed cognitive components. It is complex in behaviour yet rooted in simplicity of form. 
 
@@ -22,7 +22,7 @@ The Solevar Collective stands upon four core tenets:
   
 ## 2. Research Domains 
 
-The organisation will not rely on the methodologies traditionally used in mainstream AI, such as large language models (LLMs) and generative AI – our endeavours are rooted in low-level, foundational approaches. While additional methodologies may be borrowed from other areas (such as deep neural networks from deep learning), the following subjects and topics (non-exhaustive list) constitute the Solevar Collective's backbone: 
+The organisation will not rely on the methodologies traditionally used in mainstream AI, such as large language models (LLMs) and generative AI – our endeavours are rooted in low-level, foundational approaches. While additional methodologies may be borrowed from other areas (such as deep neural networks from deep learning), the following subjects and topics (non-exhaustive list) constitute BEARC's backbone: 
 
 - Cognitive science: 
     - Cognitive modelling. 
@@ -51,8 +51,8 @@ The organisation will not rely on the methodologies traditionally used in mainst
 
 Notwithstanding the academic efforts, and the collective's recency, governance is to be treated as a priority. Therefore, the following measures are to be taken: 
 
-* The Solevar Collective is to have minimal overall leadership, and decisions are to be made via consensus. Instead of power being concentrated in the hands of a few individuals, all members are to have a voice in our decisions. While this does sacrifice some level of overall decision-making speed, it reinforces the notion of all members being equally trusted in advancing the collective's objectives. 
+* BEARC is to have minimal overall leadership, and decisions are to be made via consensus. Instead of power being concentrated in the hands of a few individuals, all members are to have a voice in our decisions. While this does sacrifice some level of overall decision-making speed, it reinforces the notion of all members being equally trusted in advancing the collective's objectives. 
 
 * As mentioned in our tenets, research is to be made freely available to all. However, any work that has potential ethical or legal consequences is to first be assessed by non-affiliated (third party) peers, or groups, to ascertain the overall validity of the research and, subsequently, potential measures to be taken before the work is made public. 
 
-* Erratic or improper behaviour will not be tolerated. Any display of racist, homophobic, or sexual misconduct will be faced with immediate disassociation from the organisation – for Brazilian offenders, and depending on their actions, they’ll also be reported to the authorities. Solevar is, first and foremost, a research collective, and we expect its members to exhibit maturity befitting their position. 
+* Erratic or improper behaviour will not be tolerated. Any display of racist, homophobic, or sexual misconduct will be faced with immediate disassociation from the organisation – for Brazilian offenders, and depending on their actions, they’ll also be reported to the authorities. BEARC is, first and foremost, a research collective, and we expect its members to exhibit maturity befitting their position. 
