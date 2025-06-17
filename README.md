@@ -7,7 +7,7 @@ Solevar Research is an emerging, non-profit research collective formed by indivi
 
 ## 1. Tenets 
 
-Solevar stands upon four core tenets:  
+Solevar Research stands upon four core tenets:  
 
 1. **Intelligence is not engineered — it emerges**. It arises from the interplay of distributed cognitive components. It is complex in behaviour yet rooted in simplicity of form. 
 
